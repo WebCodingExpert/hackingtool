@@ -3,6 +3,7 @@
 ![](https://img.shields.io/github/issues/SamirJanaOfficial/hackingtool)
 ![](https://img.shields.io/github/issues-closed/SamirJanaOfficial/hackingtool)
 ![](https://img.shields.io/badge/Python-3-blue)
+![](https://img.shields.io/github/license/SamirJanaOfficial/hackingtool)
 ![](https://img.shields.io/github/forks/SamirJanaOfficial/hackingtool)
 ![](https://img.shields.io/github/stars/SamirJanaOfficial/hackingtool)
 ![](https://img.shields.io/github/last-commit/SamirJanaOfficial/hackingtool)
