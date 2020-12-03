@@ -234,11 +234,6 @@
 - [ ] Add Tools for CTF
 - [ ] Want to do automatic 
 
-### To do 
-- [ ] Release Tool 
-- [ ] Add Tools for CTF
-- [ ] Want to do automatic 
-
 ## Social Media :mailbox_with_no_mail:
 [![Telegram](https://img.shields.io/badge/-Telegram-181717?style=flat-square&logo=telegram&link=https://t.me/udreamtoosmall/)](https://t.me/udreamtoosmall/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/SamirJanaOfficial/)](https://github.com/SamirJanaOfficial/)
