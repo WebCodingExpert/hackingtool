@@ -196,15 +196,15 @@
 - Terminal Multiplexer
 
 ### ScreenShots
-![](https://github.com/SamirJanaOfficial/hackingtool/blob/master/images/A00.png)
+![](https://raw.githubusercontent.com/SamirJanaOfficial/hackingtool/main/images/A00.png)
 
-![](https://github.com/SamirJanaOfficial/hackingtool/blob/master/images/A0.png)
+![](https://raw.githubusercontent.com/SamirJanaOfficial/hackingtool/main/images/A0.png)
 
-![](https://github.com/SamirJanaOfficial/hackingtool/blob/master/images/A1.png)
+![](https://raw.githubusercontent.com/SamirJanaOfficial/hackingtool/main/images/A1.png)
 
-![](https://github.com/SamirJanaOfficial/hackingtool/blob/master/images/A2.png)
+![](https://raw.githubusercontent.com/SamirJanaOfficial/hackingtool/main/images/A2.png)
 
-![](https://github.com/SamirJanaOfficial/hackingtool/blob/master/images/A4.png)
+![](https://raw.githubusercontent.com/SamirJanaOfficial/hackingtool/main/images/A4.png)
 
 ## Installation For Linux <img src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
 
