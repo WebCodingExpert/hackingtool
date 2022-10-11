@@ -10,8 +10,8 @@ class Setoolkit(HackingTool):
     DESCRIPTION = "The Social-Engineer Toolkit is an open-source penetration\n" \
                   "testing framework designed for social engineering"
     INSTALL_COMMANDS = [
-        "git clone https://github.com/trustedsec/social-engineer-toolkit.git",
-        "sudo python social-engineer-toolkit/setup.py"
+        "git clone https://github.com/trustedsec/social-engineer-toolkit/",
+        "cd social-engineer-toolkit && sudo python3 setup.py"
     ]
     RUN_COMMANDS = ["sudo setoolkit"]
     PROJECT_URL = "https://github.com/trustedsec/social-engineer-toolkit"
@@ -19,7 +19,7 @@ class Setoolkit(HackingTool):
 
 class SocialFish(HackingTool):
     TITLE = "SocialFish"
-    DESCRIPTION = "Automated Phishing Tool & Information Collector"
+    DESCRIPTION = "Automated Phishing Tool & Information Collector NOTE: username is 'root' and password is 'pass'"
     INSTALL_COMMANDS = [
         "sudo git clone https://github.com/UndeadSec/SocialFish.git && sudo apt-get install python3 python3-pip python3-dev -y",
         "cd SocialFish && sudo python3 -m pip install -r requirements.txt"
@@ -32,13 +32,13 @@ class HiddenEye(HackingTool):
     TITLE = "HiddenEye"
     DESCRIPTION = "Modern Phishing Tool With Advanced Functionality And " \
                   "Multiple Tunnelling Services \n" \
-                  "\t [!]https://github.com/DarkSecDevelopers/HiddenEye"
+                  "\t [!]https://github.com/Morsmalleo/HiddenEye"
     INSTALL_COMMANDS = [
-        "sudo git clone https://github.com/DarkSecDevelopers/HiddenEye.git ;sudo chmod 777 HiddenEye",
+        "sudo git clone https://github.com/Morsmalleo/HiddenEye.git ;sudo chmod 777 HiddenEye",
         "cd HiddenEye;sudo pip3 install -r requirements.txt;sudo pip3 install requests;pip3 install pyngrok"
     ]
     RUN_COMMANDS = ["cd HiddenEye;sudo python3 HiddenEye.py"]
-    PROJECT_URL = "https://github.com/DarkSecDevelopers/HiddenEye"
+    PROJECT_URL = "https://github.com/Morsmalleo/HiddenEye.git"
 
 
 class Evilginx2(HackingTool):
@@ -86,7 +86,7 @@ class QRJacking(HackingTool):
     TITLE = "QR Code Jacking"
     DESCRIPTION = "QR Code Jacking (Any Website)"
     INSTALL_COMMANDS = [
-        "sudo git clone https://github.com/cryptedwolf/ohmyqr.git && sudo apt-get install scrot"]
+        "sudo git clone https://github.com/cryptedwolf/ohmyqr.git && sudo apt -y install scrot"]
     RUN_COMMANDS = ["cd ohmyqr && sudo bash ohmyqr.sh"]
     PROJECT_URL = "https://github.com/cryptedwolf/ohmyqr"
 
