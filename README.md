@@ -210,7 +210,7 @@
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/SamirJanaOfficial/hackingtool.git
+    git clone https://github.com/daipayanghosal-dev/hackingtool.git
     
     chmod -R 755 hackingtool  
     
@@ -224,10 +224,11 @@
 
  After Following All Steps Just Type In Terminal **root@kaliLinux:~** **hackingtool**
 
-#### Thanks to original Author of the tools used in hackingtool
+#### Thanks to original Author(https://github.com/z4nzu) of the tools used in hackingtool
 
 <img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>Please Don't Use for illegal Activity</h4>
+
 
 ### To do 
 - [ ] Release Tool 
